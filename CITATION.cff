@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Positive Climate District – Ein Framework, um klimaresiliente Quartiere messbar zu machen"
+abstract: "Ein Framework, das die Klimaleistung eines Quartiers in fünf Dimensionen (Kühlung, Wasser, Luft, Biodiversität, CO2) messbar macht, statt sie zu behaupten."
+type: report
+authors:
+  - family-names: "Ehmer"
+    given-names: "Simeon"
+version: "1.0"
+date-released: "2026-06-17"
+doi: "10.5281/zenodo.20726765"
+url: "https://doi.org/10.5281/zenodo.20726765"
+license: "CC-BY-SA-4.0"
+keywords:
+  - "Positive Climate District"
+  - "Klimaanpassung"
+  - "Smart City"
+  - "Schwammstadt"
+  - "Klimabilanzierung"
+  - "Foundation Models"
+  - "Luftqualität"
+  - "Living Climate Observatory"
